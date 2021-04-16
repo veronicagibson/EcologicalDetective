@@ -6,6 +6,6 @@ prob<- function(p,n) {
   (1-p)^n
 }
 
-iter<- function(k,n) {
-  p^k
+iter<- function(k,n) { 
+  p^k #not complete
 }
