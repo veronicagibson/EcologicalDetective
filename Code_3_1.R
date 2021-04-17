@@ -26,3 +26,5 @@ iter<- function(p,N) {
 # iteration shows the probability that 1:10 of the 10 
 # of fruit are infested when the chance of infection
 # is 0.1, 0.2, and 0.3
+
+iter(p,N)
